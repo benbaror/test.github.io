@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+agenda:
+ - date: January 26
+   event: Birthday
+ - date: May 30
+   event: Another birthday
